@@ -1,0 +1,10 @@
+scikit-image==0.20.0
+scikit-learn==1.2.2
+scipy
+pyglet==1.5.27
+plyfile==0.9
+trimesh==3.22.1
+natsort
+Pillow
+opencv-python
+matplotlib
